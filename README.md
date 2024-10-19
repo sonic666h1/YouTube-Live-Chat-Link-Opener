@@ -45,3 +45,7 @@ This script monitors a specified YouTube channel's live chat and opens (or displ
 
 - Keep your `client_secret.json` and `token.json` files secure and do not share them with others.
 - Each user should set up their own Google Cloud project and credentials for security reasons.
+
+## why?
+
+- Can be used to open roblox games immediatly to get in a giveaway server or game that you want to join in with your favorite creator.
